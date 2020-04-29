@@ -9,3 +9,6 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
+
+
+Xin chao các bạn!
